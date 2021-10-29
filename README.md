@@ -1,4 +1,15 @@
-# Automation_For_HackerRank_Contest_Moderator_Add
- This project aims in automating the prcoess of adding moderators for contests in HackerRank site.
- For this I have used JS and Puppeteer. 
- The entire process starting from logging into the website through username and password to adding moderators is automated.
+# HackerRank-Moderator-update
+
+This is a automation script for automatic adding of moderators in challenges on HackerRank. 
+ - Using Node Puppeteer and chromium library
+
+# Prerequisites
+
+**For puppeteer Script**
+Install puppeteer `npm install puppeteer`
+Note: When you install Puppeteer, it downloads a recent version of Chromium
+
+A version of Puppeteer that doesn't download Chromium by default.
+ `npm install puppeteer-core`
+
+
